@@ -8,6 +8,8 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Item {
+	
+	//测试git修改一些内容
 	/**
 	 * 商品ID
 	 */
