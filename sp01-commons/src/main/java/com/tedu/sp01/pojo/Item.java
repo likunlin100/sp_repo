@@ -22,4 +22,6 @@ public class Item {
 	 * 商品编号
 	 */
 	private Integer number;
+	
+	//1111111111111
 }
